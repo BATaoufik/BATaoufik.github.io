@@ -252,11 +252,11 @@ header.left {
   background: #4a63e7;
   border-radius: 20px;
   min-height: 620px;
-  max-height: 820px;
+  max-height: 620px;
   top: 50px;
   overflow: hidden;
   position: fixed;
-  width: 17%;
+  width: 265px;
   -webkit-transform: translateX(0);
   -moz-transform: translateX(0);
   -ms-transform: translateX(0);
@@ -447,7 +447,7 @@ header .copyright {
 }
 
 .site-wrapper {
-  width: 80%;
+  width: 1170px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -455,7 +455,7 @@ header .copyright {
 main.content {
   margin-top: 50px;
   margin-bottom: 50px;
-  width: 78%;
+  width: 875px;
   -webkit-transform: translateX(0);
   -moz-transform: translateX(0);
   -ms-transform: translateX(0);
