@@ -68,6 +68,7 @@
 .icon-magic-wand,
 .icon-hourglass,
 .icon-graduation,
+.icon-pers,
 .icon-ghost,
 .icon-game-controller,
 .icon-fire,
@@ -385,6 +386,9 @@
 }
 .icon-graduation:before {
   content: "\e019";
+}
+.icon-pers:before {
+  content: "\e53d";
 }
 .icon-ghost:before {
   content: "\e01a";
